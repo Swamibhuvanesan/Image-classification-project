@@ -2,8 +2,8 @@
 
 ## Overall Architecture
 
-![Overall Architecture](images/architecture1.png)
+![Overall Architecture](resource/Model Architecture.png)
 
 ## Model Architecture
 
-![Model Architecture](images/architecture2.png)
+![Model Architecture](resource/Project Architecture.png)
