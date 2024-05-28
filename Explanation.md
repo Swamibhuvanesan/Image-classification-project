@@ -1,4 +1,4 @@
-# Face and Eye Detection Project
+# Entire Explanation of the project
 
 ## Objectives
 
