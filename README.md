@@ -1,3 +1,5 @@
+---
+
 # Celebrity Image Classifier
 
 This project is a machine learning-based image classification system that identifies celebrities from images and provides a probability score for each classification. It includes a Flask-based API for easy interaction.
@@ -42,9 +44,12 @@ Project
 │           model.pkl
 │
 └───UI
-    │   ui_code.py
-    └───templates
-            index.html
+    │   app.html
+    │   app.css
+    │   app.js
+    │   dropzone.min.css
+    │   dropzone.min.js
+    └───images
 ```
 
 ## Installation
