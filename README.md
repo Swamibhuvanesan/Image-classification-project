@@ -159,6 +159,14 @@ curl -X POST -F "image=@path/to/your/image.jpg" http://localhost:5000/predict
 3. **Save the Model and Artifacts**:
    Save the trained model and other artifacts (like the class dictionary) in the `artifacts` directory.
 
+## Screenshots
+![Screenshot 2024-11-27 124714](https://github.com/user-attachments/assets/5117dbbb-002d-43b8-899c-fea821c8ee8c)
+![Screenshot 2024-11-27 124744](https://github.com/user-attachments/assets/328e8594-40d3-4de1-afac-389c3febb25c)
+
+## Architecture
+![Screenshot (372)](https://github.com/user-attachments/assets/fd001233-9586-4755-938e-50ed43359e6f)
+
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
